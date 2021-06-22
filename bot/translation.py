@@ -4,12 +4,12 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>𝑯𝒆𝒚 👋 {}😍</b>
+    START_TEXT = """<b>𝑯𝒆𝒚 👋 {}🤤</b>
 
-<b>ഞാൻ ഒരു 𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 ബോട്ട് ആണ്, എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ നോക്കി സമയം കളയണ്ട, എന്നെ 𝙈𝘼𝙇𝙇𝙐 𝙈𝙊𝙑𝙄𝙀𝙎 𝙏𝙀𝘼𝙈 ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ കഴിയൂ...!!!
+<b>I am a 𝙁𝙞𝙡𝙩𝙚𝙧 bot, do not waste time looking to add me to your group, you can only add me to the  @Seriesland4U_Netflix_HBO group ... !!! 
 
-𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐥𝐩 𝐁𝐮𝐭𝐭𝐨𝐧 𝐁𝐞𝐥𝐨𝐰..
-@NewDVDupdatE , @MalluMovies_Links
+𝗙𝗼𝗿 𝗺𝗼𝗿𝗲 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 𝗰𝗵𝗲𝗰𝗸 𝗯𝗲𝗹𝗼𝘄..
+@English_chatting_club_Global , @animeloverschatting
 </b>"""
 
 
@@ -47,18 +47,18 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b>@NewDVDupdatE</b> , <b>@MalluMovies_Links<\b>
+<b>@Brotherwoodfilmz</b> , <b>@Seriesland4U_Netflix_HBO<\b>
 """
     
-    ABOUT_TEXT = """<b>⭕ Name</b> : <code><b>MM Auto Filter Bot</b></code>
+    ABOUT_TEXT = """<b>⭕ Name</b> : <code><b>RB  ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ  </b></code>
     
-<b>⭕ Creator</b> : <b><i><a href="https://t.me/WhitE_DeviL09">WhitE_DeviL09</a></i></b>
+<b>⭕ Creator</b> : <b><i><a href="https://t.me/Rihu_mone">RIHAAL</a></i></b>
 
 <b>⭕ Language</b> : <code>Python3</code>
 
 <b>⭕ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>⭕ Source Code</b> : <i><a href="https://github.com/Alberteinsteintg/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>⭕ Source Code</b> : <i><a href="https://t.me/t_21_ubot/2">Click Me</a></i>
 """
 
     FORCE_SUBTEXT = """⚠️ 𝑹𝑬𝑨𝑫 𝑻𝑯𝑰𝑺 𝑰𝑵𝑺𝑻𝑹𝑼𝑪𝑻𝑰𝑶𝑵 ⚠️
