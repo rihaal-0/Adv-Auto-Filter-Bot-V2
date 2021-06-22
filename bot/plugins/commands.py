@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ OUR CHANNEL LINKS ⭕', url="https://t.me/MalluMovies_Links"
+                                    '⭕ OUR CHANNEL LINKS ⭕', url="https://t.me/joinchat/V32L_l4a3Tv1gzgQ"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ OUR CHANNEL LINKS ⭕', url="https://t.me/MalluMovies_Links"
+                                    '⭕ OUR CHANNEL LINKS ⭕', url="https://t.me/joinchat/V32L_l4a3Tv1gzgQ"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ OUR CHANNEL LINKS ⭕', url="https://t.me/MalluMovies_Links"
+                                    '⭕ OUR CHANNEL LINKS ⭕', url="https://t.me/joinchat/V32L_l4a3Tv1gzgQ"
                                 )
                         ]
                     ]
@@ -89,10 +89,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('💁 Developer', url='https://t.me/WhitE_DeviL09'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Alberteinsteintg/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('💁 Developer', url='https://t.me/Rihu_mone'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://t.me/t_21_ubot/2')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/MalluMovies_Links')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/English_chatting_club_Global')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
